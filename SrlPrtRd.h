@@ -1,0 +1,1 @@
+int srlPrtRd(char *srlPrt);
